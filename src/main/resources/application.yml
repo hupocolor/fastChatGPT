@@ -1,0 +1,5 @@
+server:
+  port: 9999
+openai:
+  api:
+    key: "your chatGPT api"
